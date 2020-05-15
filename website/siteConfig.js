@@ -24,13 +24,13 @@ const siteConfig = {
   title: 'Test Site', // Title for your website.
   tagline: 'A website for testing',
   url: 'https://supriya5897.github.io', // Your website URL
-  baseUrl: '/openai/', // Base URL for your project */
+  baseUrl: '/test/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'OpenAI',
+  projectName: 'test',
   organizationName: 'supriya5897',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
